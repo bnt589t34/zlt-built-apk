@@ -1,0 +1,2 @@
+rootProject.name='ZLTTool'
+include ':app'
